@@ -24,8 +24,8 @@ function draw() {
       for (const landmarks of gestures_results.landmarks) {
         for (let landmark of landmarks) {
           noStroke();
-          fill(100, 150, 210);
-          circle(landmark.x * width, landmark.y * height, 10);
+          fill(0, 255, 9);
+          circle(landmark.x * width, landmark.y * height, 20);
         }
       }
     }
