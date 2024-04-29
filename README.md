@@ -4,7 +4,7 @@ Easy to go mediapipe samples with p5.js!!
 ![](./teaser.png)
 
 ## Examples
-* hands-landmarker : <a href="https://tetsuakibaba.github.io/p5MediaPipe/hands-landmarker/" target="_blank">manos</a>
+* hands-landmarker : <a href="https://tetsuakibaba.github.io/p5MediaPipe/hands-landmarker/" target="_blank">DETECTOR DE MANOS</a>
 * object-detection : <a href="https://tetsuakibaba.github.io/p5MediaPipe/object-detection/" 
 target="_blank">DEMO</a>
 * object-detection-mobile-web-app-template : <a href="https://tetsuakibaba.github.io/p5MediaPipe/object-detection-mobile-web-app-template/" 
